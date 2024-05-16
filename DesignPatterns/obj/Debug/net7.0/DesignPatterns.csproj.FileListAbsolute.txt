@@ -1,0 +1,15 @@
+D:\.Net Learninig\DesignPatterns\bin\Debug\net7.0\DesignPatterns.exe
+D:\.Net Learninig\DesignPatterns\bin\Debug\net7.0\DesignPatterns.deps.json
+D:\.Net Learninig\DesignPatterns\bin\Debug\net7.0\DesignPatterns.runtimeconfig.json
+D:\.Net Learninig\DesignPatterns\bin\Debug\net7.0\DesignPatterns.dll
+D:\.Net Learninig\DesignPatterns\bin\Debug\net7.0\DesignPatterns.pdb
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.AssemblyInfo.cs
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.sourcelink.json
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.dll
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\refint\DesignPatterns.dll
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.pdb
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\DesignPatterns.genruntimeconfig.cache
+D:\.Net Learninig\DesignPatterns\obj\Debug\net7.0\ref\DesignPatterns.dll
